@@ -1,4 +1,4 @@
-## Hi there 👋
+## too lazy to make this look good just imagine it does 👋
 
 <!--
 **Airstriker123/Airstriker123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
